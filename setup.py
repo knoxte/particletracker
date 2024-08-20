@@ -19,7 +19,7 @@ setuptools.setup(
         'pandas',
         'trackpy',
         'tables',
-        'labvision @ git+https://github.com/MikeSmithLabTeam/labvision',
+        'labvision @ git+https://github.com/knoxte/labvision',
         'filehandling @ git+https://github.com/MikeSmithLabTeam/filehandling'
     ],
     include_package_data=True,
